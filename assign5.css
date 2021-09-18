@@ -1,0 +1,21 @@
+body {
+    background-image: url("Bacground image.jpg");
+    height: 100%;
+  background-position:center;
+  background-repeat: no-repeat;
+  background-size:cover;
+  opacity: 1.0;
+  border: 1px solid red
+}
+.P1 {color: rgb(250, 12, 12); opacity: 0.4;}
+.P2 {color: #320755;opacity: 0.4;}
+.P3 {color: rgb(17, 17, 19);opacity: 0.4;}
+.P4 {color: rgb(109, 12, 49);opacity: 0.4;}
+.P5 {color: rgb(95, 95, 40);opacity: 0.4;}
+.P5 {color: rgb(8, 68, 68);opacity: 0.4;}
+.P6 {color: rgb(163, 14, 14);opacity: 0.4;}
+footer {color: darkblue;}
+.content {
+  max-width: 1200px;
+  margin: auto;}
+  h1, h2, h3 {color: rgb(3, 44, 44);}
